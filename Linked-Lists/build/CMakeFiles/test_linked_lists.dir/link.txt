@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/test_linked_lists.dir/test/test_linked_lists.c.o -o test_linked_lists  liblinked_lists.a -lpthread 
