@@ -1,0 +1,5 @@
+/home/pangks/Desktop/Embedded-Skill-Challenge-main/24bit_integers/build/CMakeFiles/converter.dir
+/home/pangks/Desktop/Embedded-Skill-Challenge-main/24bit_integers/build/CMakeFiles/conversion_test.dir
+/home/pangks/Desktop/Embedded-Skill-Challenge-main/24bit_integers/build/CMakeFiles/test.dir
+/home/pangks/Desktop/Embedded-Skill-Challenge-main/24bit_integers/build/CMakeFiles/edit_cache.dir
+/home/pangks/Desktop/Embedded-Skill-Challenge-main/24bit_integers/build/CMakeFiles/rebuild_cache.dir
