@@ -1,5 +1,0 @@
-/home/pangks/Desktop/Embedded-Skill-Challenge-main/Linked-Lists/build/CMakeFiles/linked_lists.dir
-/home/pangks/Desktop/Embedded-Skill-Challenge-main/Linked-Lists/build/CMakeFiles/test_linked_lists.dir
-/home/pangks/Desktop/Embedded-Skill-Challenge-main/Linked-Lists/build/CMakeFiles/test.dir
-/home/pangks/Desktop/Embedded-Skill-Challenge-main/Linked-Lists/build/CMakeFiles/edit_cache.dir
-/home/pangks/Desktop/Embedded-Skill-Challenge-main/Linked-Lists/build/CMakeFiles/rebuild_cache.dir
